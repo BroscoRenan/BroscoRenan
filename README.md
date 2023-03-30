@@ -3,10 +3,8 @@
 👨‍🎓-Estudante de Desenvolvimento de Sistemas <br>
 🧑🏼‍🎓-Estudando Csharp, Flutter/Dart
 
-##
-
-[![Brosco's GitHub stats](https://github-readme-stats.vercel.app/api?username=BroscoRenan&show_icons=true&theme=merko&count_private=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BroscoRenan&langs_count=16&theme=merko&layout=compact)]
+![Brosco's GitHub stats](https://github-readme-stats.vercel.app/api?username=BroscoRenan&show_icons=true&theme=merko&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BroscoRenan&langs_count=16&theme=merko&layout=compact)
 
 <div style="display: inline_block">
 <img align="center" alt="Brosco-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
