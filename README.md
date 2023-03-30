@@ -1,4 +1,4 @@
-### Olá, Renan Broscho aqui!!<br>
+### Hey, Renan Broscho aqui!!<br>
 
 👨‍🎓-Estudante de Desenvolvimento de Sistemas <br>
 🧑🏼‍🎓-Estudando Csharp, Flutter/Dart
