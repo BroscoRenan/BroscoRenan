@@ -1,7 +1,7 @@
 ### Hey, Renan Broscho aqui!!<br>
 
 👨‍🎓-Estudante de Desenvolvimento de Sistemas <br>
-🧑🏼‍🎓-Estudando Csharp, Flutter/Dart
+🧑🏼‍🎓-Estudando C#,ASP.NET
 
 ![Brosco's GitHub stats](https://github-readme-stats.vercel.app/api?username=BroscoRenan&show_icons=true&theme=merko&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BroscoRenan&langs_count=16&theme=merko&layout=compact)
